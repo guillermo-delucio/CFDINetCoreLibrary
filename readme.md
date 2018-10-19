@@ -1,0 +1,1 @@
+Libreria hecha en .NET Core 2.1 para la manipulacion de CFDIs version 3.3
